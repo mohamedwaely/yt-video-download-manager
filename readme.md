@@ -12,18 +12,18 @@ Built with Spring Boot, Lombok, and yt-dlp for robust video downloading.
 - yt-dlp: Command-line tool for downloading YouTube videos.
 - FFmpeg: For merging audio and video streams into a single MP4 file.
 
-[//]: # (## 📸 Screenshots)
+## 📸 Screenshots
 
-[//]: # ()
-[//]: # (### API calls and downloads)
 
-[//]: # (<div align="center">)
+### API calls and downloads
 
-[//]: # (  <img src="./imgs/api-call.png" alt="video download API call" width="400"/>)
+<div align="center">
 
-[//]: # (  <img src="./imgs/downloads.png" alt="downloads folder" width="400"/>)
+  <img src="./imgs/api-call.png" alt="video download API call" width="400"/>
 
-[//]: # (</div>)
+  <img src="./imgs/downloads.png" alt="downloads folder" width="400"/>
+
+</div>
 
 ## Contributing
 Contributions are welcome to enhance this project! Please submit pull requests or open issues on the repository.
